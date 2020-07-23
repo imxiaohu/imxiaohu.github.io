@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imxiaohu.github.io</id>
     <title>小胡的Blog</title>
-    <updated>2020-07-23T14:19:51.469Z</updated>
+    <updated>2020-07-23T14:20:06.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imxiaohu.github.io"/>
     <link rel="self" href="https://imxiaohu.github.io/atom.xml"/>
@@ -16,6 +16,13 @@
         <link href="https://imxiaohu.github.io/post/guan-yu-windows-dian-nao-dan-chuang-guang-gao-de-jie-jue-he-yu-fang-fang-fa/">
         </link>
         <updated>2020-07-23T14:15:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用PN532模块复制门禁卡]]></title>
+        <id>https://imxiaohu.github.io/post/shi-yong-pn532-mo-kuai-fu-zhi-men-jin-qia/</id>
+        <link href="https://imxiaohu.github.io/post/shi-yong-pn532-mo-kuai-fu-zhi-men-jin-qia/">
+        </link>
+        <updated>2020-07-23T14:13:24.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
